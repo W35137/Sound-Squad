@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\FMOD\FMOD_Listener.cs">
+    <Files>
+      <File FileName="Sound Squad 2.sln" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" Line="1" Column="1" />
+      <File FileName="Assets\Visualizer\Scripts\Visualizer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioVisualizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\FMOD\FMOD_Listener.cs" Line="21" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
